@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1792900765910" clover="3.2.0">
+  <project timestamp="1792900765910" name="All files">
+    <metrics statements="321" coveredstatements="312" conditionals="160" coveredconditionals="137" methods="82" coveredmethods="77" elements="563" coveredelements="526" complexity="0" loc="321" ncloc="321" packages="8" files="28" classes="28"/>
+    <package name="src">
+      <metrics statements="31" coveredstatements="28" conditionals="18" coveredconditionals="8" methods="7" coveredmethods="7"/>
+      <file name="compositionRoot.js" path="C:\Users\SaloniK\Desktop\ai-kata2\Code\backend\src\compositionRoot.js">
+        <metrics statements="14" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="16" count="3" type="stmt"/>
+        <line num="19" count="5" type="stmt"/>
+      </file>
+      <file name="config.js" path="C:\Users\SaloniK\Desktop\ai-kata2\Code\backend\src\config.js">
+        <metrics statements="9" coveredstatements="6" conditionals="15" coveredconditionals="6" methods="3" coveredmethods="3"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="6" count="6" type="cond" truecount="2" falsecount="2"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="16" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="22" count="5" type="stmt"/>
+      </file>
+      <file name="errors.js" path="C:\Users\SaloniK\Desktop\ai-kata2\Code\backend\src\errors.js">
+        <metrics statements="8" coveredstatements="8" conditionals="3" coveredconditionals="2" methods="3" coveredmethods="3"/>
+        <line num="3" count="50" type="stmt"/>
+        <line num="4" count="50" type="stmt"/>
+        <line num="5" count="50" type="stmt"/>
+        <line num="6" count="50" type="stmt"/>
+        <line num="7" count="50" type="stmt"/>
+        <line num="13" count="45" type="stmt"/>
+        <line num="19" count="5" type="stmt"/>
+        <line num="23" count="6" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.domain">
+      <metrics statements="38" coveredstatements="38" conditionals="6" coveredconditionals="6" methods="11" coveredmethods="11"/>
+      <file name="Decision.js" path="C:\Users\SaloniK\Desktop\ai-kata2\Code\backend\src\domain\Decision.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="247" type="stmt"/>
+        <line num="4" count="247" type="stmt"/>
+        <line num="5" count="247" type="stmt"/>
+        <line num="9" count="8" type="stmt"/>
+      </file>
+      <file name="Holding.js" path="C:\Users\SaloniK\Desktop\ai-kata2\Code\backend\src\domain\Holding.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="4" count="73" type="stmt"/>
+        <line num="5" count="73" type="stmt"/>
+        <line num="6" count="73" type="stmt"/>
+        <line num="7" count="73" type="stmt"/>
+        <line num="11" count="234" type="stmt"/>
+        <line num="15" count="8" type="stmt"/>
+      </file>
+      <file name="Portfolio.js" path="C:\Users\SaloniK\Desktop\ai-kata2\Code\backend\src\domain\Portfolio.js">
+        <metrics statements="10" coveredstatements="10" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+        <line num="11" count="64" type="stmt"/>
+        <line num="12" count="64" type="stmt"/>
+        <line num="13" count="64" type="stmt"/>
+        <line num="14" count="64" type="stmt"/>
+        <line num="15" count="64" type="stmt"/>
+        <line num="16" count="64" type="stmt"/>
+        <line num="20" count="193" type="stmt"/>
+        <line num="25" count="249" type="stmt"/>
+        <line num="26" count="173" type="cond" truecount="2" falsecount="0"/>
+        <line num="30" count="8" type="stmt"/>
+      </file>
+      <file name="Trade.js" path="C:\Users\SaloniK\Desktop\ai-kata2\Code\backend\src\domain\Trade.js">
+        <metrics statements="13" coveredstatements="13" conditionals="4" coveredconditionals="4" methods="4" coveredmethods="4"/>
+        <line num="1" count="8" type="stmt"/>
+        <line num="6" count="604" type="cond" truecount="4" falsecount="0"/>
+        <line num="7" count="574" type="stmt"/>
+        <line num="16" count="302" type="stmt"/>
+        <line num="17" count="302" type="stmt"/>
+        <line num="18" count="302" type="stmt"/>
+        <line num="19" count="302" type="stmt"/>
+        <line num="20" count="302" type="stmt"/>
+        <line num="21" count="302" type="stmt"/>
+        <line num="22" count="302" type="stmt"/>
+        <line num="26" count="302" type="stmt"/>
+        <line num="37" count="323" type="stmt"/>
+        <line num="41" count="8" type="stmt"/>
+      </file>
+      <file name="decisions.js" path="C:\Users\SaloniK\Desktop\ai-kata2\Code\backend\src\domain\decisions.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="8" type="stmt"/>
+        <line num="7" count="8" type="stmt"/>
+        <line num="16" count="8" type="stmt"/>
+        <line num="17" count="8" type="stmt"/>
+        <line num="19" count="8" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.http">
+      <metrics statements="67" coveredstatements="62" conditionals="38" coveredconditionals="32" methods="16" coveredmethods="13"/>
+      <file name="app.js" path="C:\Users\SaloniK\Desktop\ai-kata2\Code\backend\src\http\app.js">
+        <metrics statements="26" coveredstatements="26" conditionals="6" coveredconditionals="5" methods="3" coveredmethods="3"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="11" count="86" type="cond" truecount="4" falsecount="0"/>
+        <line num="12" count="5" type="stmt"/>
+        <line num="16" count="81" type="stmt"/>
+        <line num="21" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="22" count="4" type="stmt"/>
+        <line num="23" count="4" type="stmt"/>
+        <line num="24" count="4" type="stmt"/>
+        <line num="25" count="96" type="stmt"/>
+        <line num="26" count="96" type="stmt"/>
+        <line num="28" count="4" type="stmt"/>
+        <line num="29" count="4" type="stmt"/>
+        <line num="31" count="4" type="stmt"/>
+        <line num="32" count="4" type="stmt"/>
+        <line num="33" count="4" type="stmt"/>
+        <line num="35" count="4" type="stmt"/>
+        <line num="36" count="4" type="stmt"/>
+        <line num="37" count="4" type="stmt"/>
+        <line num="40" count="5" type="stmt"/>
+      </file>
+      <file name="bodyLimit.js" path="C:\Users\SaloniK\Desktop\ai-kata2\Code\backend\src\http\bodyLimit.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+      </file>
+      <file name="errorHandler.js" path="C:\Users\SaloniK\Desktop\ai-kata2\Code\backend\src\http\errorHandler.js">
+        <metrics statements="21" coveredstatements="21" conditionals="21" coveredconditionals="21" methods="4" coveredmethods="4"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="5" count="39" type="stmt"/>
+        <line num="6" count="39" type="cond" truecount="2" falsecount="0"/>
+        <line num="7" count="39" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="39" type="stmt"/>
+        <line num="12" count="6" type="stmt"/>
+        <line num="18" count="9" type="stmt"/>
+        <line num="19" count="33" type="cond" truecount="2" falsecount="0"/>
+        <line num="20" count="22" type="stmt"/>
+        <line num="22" count="11" type="cond" truecount="2" falsecount="0"/>
+        <line num="23" count="3" type="stmt"/>
+        <line num="25" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="29" count="7" type="cond" truecount="6" falsecount="0"/>
+        <line num="30" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="31" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="32" count="3" type="stmt"/>
+        <line num="34" count="4" type="stmt"/>
+        <line num="35" count="4" type="stmt"/>
+        <line num="39" count="5" type="stmt"/>
+      </file>
+      <file name="requestLogger.js" path="C:\Users\SaloniK\Desktop\ai-kata2\Code\backend\src\http\requestLogger.js">
+        <metrics statements="18" coveredstatements="13" conditionals="11" coveredconditionals="6" methods="9" coveredmethods="6"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="4" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="6" count="95" type="cond" truecount="1" falsecount="1"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="95" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="20" count="4" type="stmt"/>
+        <line num="21" count="96" type="stmt"/>
+        <line num="22" count="96" type="stmt"/>
+        <line num="23" count="96" type="cond" truecount="4" falsecount="0"/>
+        <line num="24" count="96" type="stmt"/>
+        <line num="32" count="96" type="stmt"/>
+        <line num="36" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.http.routes">
+      <metrics statements="18" coveredstatements="18" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="7"/>
+      <file name="healthRoutes.js" path="C:\Users\SaloniK\Desktop\ai-kata2\Code\backend\src\http\routes\healthRoutes.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="8" count="4" type="stmt"/>
+      </file>
+      <file name="portfoliosRoutes.js" path="C:\Users\SaloniK\Desktop\ai-kata2\Code\backend\src\http\routes\portfoliosRoutes.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="8" count="4" type="stmt"/>
+      </file>
+      <file name="tradesRoutes.js" path="C:\Users\SaloniK\Desktop\ai-kata2\Code\backend\src\http\routes\tradesRoutes.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="6" count="75" type="stmt"/>
+        <line num="8" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.repositories">
+      <metrics statements="48" coveredstatements="47" conditionals="34" coveredconditionals="29" methods="11" coveredmethods="11"/>
+      <file name="CsvPortfolioRepository.js" path="C:\Users\SaloniK\Desktop\ai-kata2\Code\backend\src\repositories\CsvPortfolioRepository.js">
+        <metrics statements="48" coveredstatements="47" conditionals="34" coveredconditionals="29" methods="11" coveredmethods="11"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="15" count="40" type="stmt"/>
+        <line num="16" count="40" type="stmt"/>
+        <line num="20" count="5" type="stmt"/>
+        <line num="21" count="5" type="stmt"/>
+        <line num="24" count="224" type="cond" truecount="1" falsecount="1"/>
+        <line num="25" count="224" type="cond" truecount="2" falsecount="0"/>
+        <line num="26" count="16" type="stmt"/>
+        <line num="28" count="208" type="stmt"/>
+        <line num="32" count="47" type="cond" truecount="1" falsecount="1"/>
+        <line num="33" count="47" type="cond" truecount="2" falsecount="0"/>
+        <line num="34" count="35" type="stmt"/>
+        <line num="35" count="35" type="stmt"/>
+        <line num="36" count="191" type="stmt"/>
+        <line num="37" count="65" type="cond" truecount="4" falsecount="0"/>
+        <line num="38" count="8" type="stmt"/>
+        <line num="40" count="57" type="cond" truecount="2" falsecount="0"/>
+        <line num="41" count="55" type="stmt"/>
+        <line num="42" count="55" type="stmt"/>
+        <line num="53" count="51" type="stmt"/>
+        <line num="55" count="51" type="stmt"/>
+        <line num="56" count="51" type="stmt"/>
+        <line num="58" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="61" count="49" type="stmt"/>
+        <line num="62" count="49" type="stmt"/>
+        <line num="64" count="0" type="stmt"/>
+        <line num="66" count="49" type="cond" truecount="2" falsecount="0"/>
+        <line num="67" count="47" type="stmt"/>
+        <line num="68" count="47" type="stmt"/>
+        <line num="69" count="231" type="cond" truecount="2" falsecount="0"/>
+        <line num="72" count="45" type="stmt"/>
+        <line num="73" count="67" type="cond" truecount="1" falsecount="1"/>
+        <line num="74" count="67" type="cond" truecount="2" falsecount="0"/>
+        <line num="75" count="67" type="cond" truecount="2" falsecount="0"/>
+        <line num="76" count="65" type="cond" truecount="2" falsecount="0"/>
+        <line num="77" count="63" type="stmt"/>
+        <line num="78" count="57" type="cond" truecount="4" falsecount="0"/>
+        <line num="79" count="4" type="stmt"/>
+        <line num="81" count="60" type="cond" truecount="1" falsecount="1"/>
+        <line num="82" count="53" type="stmt"/>
+        <line num="93" count="196" type="stmt"/>
+        <line num="97" count="7" type="stmt"/>
+        <line num="101" count="5" type="stmt"/>
+        <line num="102" count="5" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.rules">
+      <metrics statements="57" coveredstatements="57" conditionals="31" coveredconditionals="31" methods="11" coveredmethods="11"/>
+      <file name="ApprovedRule.js" path="C:\Users\SaloniK\Desktop\ai-kata2\Code\backend\src\rules\ApprovedRule.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="8" type="stmt"/>
+        <line num="2" count="8" type="stmt"/>
+        <line num="7" count="145" type="stmt"/>
+        <line num="11" count="8" type="stmt"/>
+      </file>
+      <file name="ConcentrationRule.js" path="C:\Users\SaloniK\Desktop\ai-kata2\Code\backend\src\rules\ConcentrationRule.js">
+        <metrics statements="14" coveredstatements="14" conditionals="6" coveredconditionals="6" methods="3" coveredmethods="3"/>
+        <line num="1" count="8" type="stmt"/>
+        <line num="2" count="8" type="stmt"/>
+        <line num="3" count="8" type="stmt"/>
+        <line num="12" count="166" type="cond" truecount="2" falsecount="0"/>
+        <line num="14" count="157" type="stmt"/>
+        <line num="15" count="157" type="cond" truecount="2" falsecount="0"/>
+        <line num="16" count="157" type="stmt"/>
+        <line num="18" count="157" type="stmt"/>
+        <line num="19" count="157" type="stmt"/>
+        <line num="20" count="248" type="stmt"/>
+        <line num="21" count="234" type="stmt"/>
+        <line num="22" count="157" type="stmt"/>
+        <line num="24" count="157" type="cond" truecount="2" falsecount="0"/>
+        <line num="30" count="8" type="stmt"/>
+      </file>
+      <file name="InsufficientCashRule.js" path="C:\Users\SaloniK\Desktop\ai-kata2\Code\backend\src\rules\InsufficientCashRule.js">
+        <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="1" count="8" type="stmt"/>
+        <line num="2" count="8" type="stmt"/>
+        <line num="7" count="174" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="165" type="cond" truecount="2" falsecount="0"/>
+        <line num="14" count="8" type="stmt"/>
+      </file>
+      <file name="InsufficientHoldingsRule.js" path="C:\Users\SaloniK\Desktop\ai-kata2\Code\backend\src\rules\InsufficientHoldingsRule.js">
+        <metrics statements="8" coveredstatements="8" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+        <line num="1" count="8" type="stmt"/>
+        <line num="2" count="8" type="stmt"/>
+        <line num="7" count="181" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="16" type="stmt"/>
+        <line num="9" count="16" type="cond" truecount="4" falsecount="0"/>
+        <line num="10" count="7" type="stmt"/>
+        <line num="12" count="9" type="stmt"/>
+        <line num="16" count="8" type="stmt"/>
+      </file>
+      <file name="InvalidTradeDataRule.js" path="C:\Users\SaloniK\Desktop\ai-kata2\Code\backend\src\rules\InvalidTradeDataRule.js">
+        <metrics statements="8" coveredstatements="8" conditionals="11" coveredconditionals="11" methods="1" coveredmethods="1"/>
+        <line num="1" count="8" type="stmt"/>
+        <line num="2" count="8" type="stmt"/>
+        <line num="7" count="247" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="247" type="cond" truecount="2" falsecount="0"/>
+        <line num="9" count="247" type="cond" truecount="2" falsecount="0"/>
+        <line num="10" count="247" type="cond" truecount="5" falsecount="0"/>
+        <line num="11" count="54" type="stmt"/>
+        <line num="15" count="8" type="stmt"/>
+      </file>
+      <file name="RestrictedSecurityRule.js" path="C:\Users\SaloniK\Desktop\ai-kata2\Code\backend\src\rules\RestrictedSecurityRule.js">
+        <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="8" type="stmt"/>
+        <line num="2" count="8" type="stmt"/>
+        <line num="7" count="193" type="cond" truecount="2" falsecount="0"/>
+        <line num="13" count="8" type="stmt"/>
+      </file>
+      <file name="RuleChain.js" path="C:\Users\SaloniK\Desktop\ai-kata2\Code\backend\src\rules\RuleChain.js">
+        <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="4" count="11" type="stmt"/>
+        <line num="8" count="249" type="stmt"/>
+        <line num="9" count="1109" type="stmt"/>
+        <line num="10" count="1109" type="cond" truecount="2" falsecount="0"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="16" count="8" type="stmt"/>
+      </file>
+      <file name="defaultRules.js" path="C:\Users\SaloniK\Desktop\ai-kata2\Code\backend\src\rules\defaultRules.js">
+        <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="8" type="stmt"/>
+        <line num="2" count="8" type="stmt"/>
+        <line num="3" count="8" type="stmt"/>
+        <line num="4" count="8" type="stmt"/>
+        <line num="5" count="8" type="stmt"/>
+        <line num="6" count="8" type="stmt"/>
+        <line num="10" count="10" type="stmt"/>
+        <line num="20" count="8" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.services">
+      <metrics statements="34" coveredstatements="34" conditionals="25" coveredconditionals="25" methods="9" coveredmethods="9"/>
+      <file name="ComplianceService.js" path="C:\Users\SaloniK\Desktop\ai-kata2\Code\backend\src\services\ComplianceService.js">
+        <metrics statements="14" coveredstatements="14" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="7" count="4" type="stmt"/>
+        <line num="8" count="4" type="stmt"/>
+        <line num="13" count="78" type="stmt"/>
+        <line num="14" count="60" type="stmt"/>
+        <line num="15" count="186" type="stmt"/>
+        <line num="16" count="186" type="cond" truecount="2" falsecount="0"/>
+        <line num="17" count="5" type="stmt"/>
+        <line num="22" count="181" type="stmt"/>
+        <line num="24" count="55" type="stmt"/>
+        <line num="25" count="179" type="stmt"/>
+        <line num="26" count="179" type="stmt"/>
+        <line num="31" count="5" type="stmt"/>
+      </file>
+      <file name="TradeInputValidator.js" path="C:\Users\SaloniK\Desktop\ai-kata2\Code\backend\src\services\TradeInputValidator.js">
+        <metrics statements="20" coveredstatements="20" conditionals="23" coveredconditionals="23" methods="5" coveredmethods="5"/>
+        <line num="1" count="6" type="stmt"/>
+        <line num="2" count="6" type="stmt"/>
+        <line num="3" count="6" type="stmt"/>
+        <line num="5" count="497" type="cond" truecount="2" falsecount="0"/>
+        <line num="10" count="5" type="stmt"/>
+        <line num="15" count="111" type="cond" truecount="4" falsecount="0"/>
+        <line num="16" count="111" type="cond" truecount="4" falsecount="0"/>
+        <line num="17" count="10" type="stmt"/>
+        <line num="19" count="101" type="cond" truecount="2" falsecount="0"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="26" count="99" type="stmt"/>
+        <line num="27" count="258" type="stmt"/>
+        <line num="28" count="258" type="cond" truecount="5" falsecount="0"/>
+        <line num="29" count="5" type="stmt"/>
+        <line num="31" count="253" type="cond" truecount="2" falsecount="0"/>
+        <line num="32" count="244" type="cond" truecount="2" falsecount="0"/>
+        <line num="33" count="234" type="cond" truecount="2" falsecount="0"/>
+        <line num="34" count="9" type="stmt"/>
+        <line num="36" count="225" type="stmt"/>
+        <line num="41" count="6" type="stmt"/>
+      </file>
+    </package>
+    <package name="tests.helpers">
+      <metrics statements="28" coveredstatements="28" conditionals="8" coveredconditionals="6" methods="10" coveredmethods="8"/>
+      <file name="app.js" path="C:\Users\SaloniK\Desktop\ai-kata2\Code\backend\tests\helpers\app.js">
+        <metrics statements="9" coveredstatements="9" conditionals="1" coveredconditionals="1" methods="5" coveredmethods="3"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="15" count="5" type="stmt"/>
+      </file>
+      <file name="builders.js" path="C:\Users\SaloniK\Desktop\ai-kata2\Code\backend\tests\helpers\builders.js">
+        <metrics statements="19" coveredstatements="19" conditionals="7" coveredconditionals="5" methods="5" coveredmethods="5"/>
+        <line num="1" count="5" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="10" count="31" type="stmt"/>
+        <line num="15" count="22" type="stmt"/>
+        <line num="21" count="383" type="stmt"/>
+        <line num="33" count="68" type="stmt"/>
+        <line num="36" count="5" type="stmt"/>
+        <line num="38" count="68" type="stmt"/>
+        <line num="42" count="5" type="stmt"/>
+        <line num="43" count="5" type="stmt"/>
+        <line num="44" count="5" type="stmt"/>
+        <line num="45" count="5" type="stmt"/>
+        <line num="46" count="5" type="stmt"/>
+        <line num="47" count="5" type="stmt"/>
+        <line num="52" count="5" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
